@@ -47,9 +47,9 @@
 
 **Developed by:**
 * Mahish (Lead & System Architect)
-* [Mugilan]
-* [Ali Alfian]
-* [Shabiq]
+* Mugilan (DHT11 Sensor)
+* Ali Alfian (Display)
+* Shabiq (Actuators)
 
 **Supervised by:**
 * **Dr. Fauzan Khairi Che Harun**
